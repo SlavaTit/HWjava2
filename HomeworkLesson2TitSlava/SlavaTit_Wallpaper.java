@@ -24,7 +24,7 @@ public class SlavaTit_Wallpaper {
                             } count++;
                         }System.out.println();
                     }
-                }else System.out.println("Digits should be from 1 to "+ max);
+                }else System.out.println("Numbers should be from 1 to "+ max);
             }else System.out.println("Enter digits");
         }while (!isNumber(s));;
     }
